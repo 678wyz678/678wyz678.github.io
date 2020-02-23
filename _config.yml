@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '伍瑜展的独立博客'
 description: '技术学习小白'
-keyword: '伍瑜展, 伍瑜展的独立博客, 伍瑜展的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+keyword: '伍瑜展, 伍瑜展的独立博客, 伍瑜展的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs'
 url: 'https://mr-wu.github.io' 
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -39,6 +39,9 @@ nightMode: true
 comments:
   disqus: false
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+
+# QRcode 首页二维码设置
+   QRcode: true
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
