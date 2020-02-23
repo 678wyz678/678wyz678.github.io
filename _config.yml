@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: "伍瑜展的独立博客"
-description: "技术学习小白"
-keyword: "伍瑜展, 伍瑜展的独立博客, 伍瑜展的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs"
+title: "My Blog"
+description: "Technology Explore"
+keyword: "Jo, 伍瑜展的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, react"
 url: "https://mr-wu.github.io"
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -26,7 +26,7 @@ footer:
 # Author 配置博主信息
 author: "伍瑜展"
 nickname: "Jo"
-bio: "前端开发者，热爱技术&设计，简单乐观爱创造"
+bio: "前端开发者，热爱技术&编程，简单乐观爱创造"
 avatar: "/assets/img/profile.png"
 
 # Search
