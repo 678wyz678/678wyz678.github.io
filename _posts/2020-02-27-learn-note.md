@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Note'
-date: 2020-02-23
+date: 2020-02-27
 author: Jo
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 categories: 随笔
