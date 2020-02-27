@@ -15,7 +15,7 @@ tags: vueJS
 
 
 ## 订阅-发布模式
-￼![observer](https://github.com/678wyz678/678wyz678.github.io/blob/master/assets/img/2020-02-27/observer.jpg)
+￼![subscribe_code2](https://github.com/678wyz678/678wyz678.github.io/blob/master/assets/img/2020-02-27/subscribe_code1.jpg)
 
 
 ![subscribe_code2](https://github.com/678wyz678/678wyz678.github.io/blob/master/assets/img/2020-02-27/subscribe_code2.jpg)
@@ -31,7 +31,7 @@ tags: vueJS
 ￼![observer_image](https://github.com/678wyz678/678wyz678.github.io/blob/master/assets/img/2020-02-27/observer.jpg)
 观察者模式图
 
-￼![publish_subscribe](https://github.com/678wyz678/678wyz678.github.io/blob/master/assets/img/2020-02-27/publish_subscribe.jpg "publish_subscribe")
+￼![publish_subscribe](https://github.com/678wyz678/678wyz678.github.io/blob/master/assets/img/2020-02-27/publish_subscribe.jpg)
 发布-订阅模式
 发布者和订阅者没有直接关系，是通过数据中心反应的
 ￼
