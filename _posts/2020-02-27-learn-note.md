@@ -18,7 +18,7 @@ tags: vueJS
 ￼![observer](https://github.com/678wyz678/678wyz678.github.io/blob/master/assets/img/2020-02-27/observer.jpg)
 
 
-![subscribe_code2](assets/img/2020-02-27/subscribe_code2.jpg)
+![subscribe_code2](https://github.com/678wyz678/678wyz678.github.io/blob/master/assets/img/2020-02-27/subscribe_code2.jpg)
 
 
 
@@ -28,10 +28,10 @@ tags: vueJS
 * 观察者模式大多数时候是同步的，比如当事件触发，Subject就会去调用观察者的方法。而发布-订阅模式大多数时候是异步的（使用消息队列）
 
 
-￼![observer_image](assets/img/2020-02-27/observer.jpg)
+￼![observer_image](https://github.com/678wyz678/678wyz678.github.io/blob/master/assets/img/2020-02-27/observer.jpg)
 观察者模式图
 
-￼![publish_subscribe](./assets/img/2020-02-27/publish_subscribe.jpg "publish_subscribe")
+￼![publish_subscribe](https://github.com/678wyz678/678wyz678.github.io/blob/master/assets/img/2020-02-27/publish_subscribe.jpg "publish_subscribe")
 发布-订阅模式
 发布者和订阅者没有直接关系，是通过数据中心反应的
 ￼
